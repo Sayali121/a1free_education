@@ -1,0 +1,2 @@
+[27-Oct-2020 07:38:34 America/New_York] PHP Notice:  Undefined index: unique_id in /home/oskaagib/quizmaker.oskar-products.store/api/login_student.php on line 3
+[27-Oct-2020 07:38:34 America/New_York] PHP Notice:  Undefined index: password in /home/oskaagib/quizmaker.oskar-products.store/api/login_student.php on line 4
